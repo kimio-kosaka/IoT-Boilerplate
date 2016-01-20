@@ -16,7 +16,7 @@ The system is divided to of 3 parts.
 For sample, I've included small code to turn LED on and off from website, & receive message on webserver when button is pressed.
 
 0. Set up your hard ware as below  
-![demo setup](https://github.com/kimio-kosaka/IoT-Boilerplate/blob/master/breadboard/led-sw.png)
+![demo setup](https://github.com/kosamari/IoT-Boilerplate/blob/master/breadboard/led-sw.png)
 0. From your computer (or on your server) start a server `node server.js`
 0. From your computer connected to Arduino via USB, start Arduino client  `node client.js`
 0. Open `localhost:5030` in your browser to see controller site
